@@ -62769,7 +62769,7 @@ this.d=s
 s.h6(new A.NC(this))},
 L(a){var s=A.a([this.Zu()],t.p)
 this.a.toString
-s.push(this.a3g("assets/images/me.jpeg"))
+s.push(this.a3g("https://sxio.github.io/assets/assets/images/me.jpeg"))
 return A.v4(B.a1,s,B.ID)},
 a3g(a){var s=null
 this.a.toString
